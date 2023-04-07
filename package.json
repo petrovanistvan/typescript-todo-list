@@ -1,0 +1,23 @@
+{
+  "name": "typescript-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrovanistvan/typescript-todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrovanistvan/typescript-todo-list/issues"
+  },
+  "homepage": "https://github.com/petrovanistvan/typescript-todo-list#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
