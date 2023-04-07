@@ -19,5 +19,8 @@
   "homepage": "https://github.com/petrovanistvan/typescript-todo-list#readme",
   "devDependencies": {
     "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
